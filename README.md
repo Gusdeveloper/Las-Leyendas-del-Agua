@@ -1,4 +1,4 @@
 Las-Leyendas-del-Agua
 =====================
 
-LaLeyendas del Agua para mostrar esta novela en la web
+Las Leyendas del Agua es una web para mostrar esta novela
